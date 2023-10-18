@@ -1,9 +1,11 @@
 import React from "react";
 import Axios from "./Axios.js"
+import Axiospost from "./Axiospost.js";
 
 function App() {
     return(
-        <Axios/>
+        // <Axios/>
+        <Axiospost/>
     )
 }
 export default App;
